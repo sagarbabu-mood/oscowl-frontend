@@ -1,7 +1,6 @@
+import Register from "./components/Register/index";
+const App = () => {
+  return <Register />;
+};
 
-import Register from "./components/Register/index"
-const App=()=>{
- return  <Register />
-}
-
-export default App
+export default App;
